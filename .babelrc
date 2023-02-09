@@ -1,0 +1,8 @@
+// This is required because we nee to convert EcmaScripts and React into Node 
+
+// So That build Scipt to Work we need it 
+
+
+{
+  "presets": ["@babel/env", "@babel/react"]
+}
